@@ -1,4 +1,4 @@
-#Tests written by Pratheek Devaraj
+#Tests written by Nasim Taba
 
 library(testthat)
 library(circles)
