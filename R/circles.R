@@ -19,7 +19,6 @@ circle <- function(r) {
 }
 
 
-
 #' area.circle()
 #' @return The area of a circle with radius
 #' @examples
@@ -44,8 +43,6 @@ area.default <- function(obj){
 area.circle <- function(obj){
   cat((obj$radius^2)*3.14, "\n")
 }
-
-
 
 
 # generate generic function for circumference
