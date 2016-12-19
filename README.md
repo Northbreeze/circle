@@ -42,10 +42,10 @@ We can then calculate area and perimeter of the circle object
 #' circumference.circle()
 #' @return The circumference of a circle with radius
 #' @examples
-#' circumference(circle(3))
+#' circumference(circle(4))
 #'
 ```
 
 
-`circumference(cricle1)`
-`circumference(circle(3))`
+`circumference(cricle2)`
+`circumference(circle(4))`
